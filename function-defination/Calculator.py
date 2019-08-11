@@ -25,7 +25,7 @@ subtraction_result=calculator.subtraction(12,10)
 multiplication_result=calculator.multiplications(2,5)
 division_result=calculator.divisions(10,2)
 
-print(f"ADDTION : {addition_result} " "\n"
+print(f"ADDITION : {addition_result} " "\n"
       f"SUBTRACTION : {subtraction_result} ""\n"
       f"MULTIPLICATION : {multiplication_result}""\n"
       f"DIVISONS : {division_result}")
